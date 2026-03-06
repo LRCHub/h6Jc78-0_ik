@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Shunari",
+  "base_artist": "reGretGirl",
+  "createdAt": "2026-03-06T06:54:37.291795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shunari",
+      "artist": "reGretGirl",
+      "has_synced": false,
+      "path": "select/01_Shunari_reGretGirl.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shunari",
+      "artist": "reGretGirl",
+      "has_synced": false,
+      "path": "select/pl_01_Shunari_reGretGirl.txt"
+    }
+  ]
+}
